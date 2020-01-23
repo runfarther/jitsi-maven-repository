@@ -2,7 +2,7 @@
 <metadata modelVersion="1.1.0">
   <groupId>org.jitsi</groupId>
   <artifactId>jnilib</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0-20190319.172749-1</version>
   <versioning>
     <snapshot>
       <timestamp>20190319.172749</timestamp>
